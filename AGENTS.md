@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every completed trade result must visibly show each side's total value and a fairness grade; any suggested player adjustment must move the two totals closer together.
 
 ## Workflow
 
